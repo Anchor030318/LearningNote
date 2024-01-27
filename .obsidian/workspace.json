@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KMP算法.md",
+                "file": "C++基础知识.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "59b4f22453eb154a",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KMP算法.md",
+                "file": "lc 459 重复的子字符串.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KMP算法.md",
+                "file": "lc 459 重复的子字符串.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KMP算法.md"
+                "file": "lc 459 重复的子字符串.md"
               }
             }
           },
@@ -184,14 +185,14 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "2fc54e9bb601a396",
+  "active": "24200a396da3b1eb",
   "lastOpenFiles": [
+    "C++基础知识.md",
+    "KMP算法.md",
     "算法题.md",
     "lc 459 重复的子字符串.md",
     "C++ web服务器开发.md",
     "[重复的子字符串.md",
-    "KMP算法.md",
-    "C++基础知识.md",
     "Linux基本语法.md",
     "[KMP算法.md",
     "图片/Pasted image 20240118223443.png",
